@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="CDorst.DevOps.VersionControl.Functions.RunGitPushCommand" Version="1.0.0" />
+    <PackageReference Include="CDorst.DevOps.VersionControl.Functions.RunGitRemoteCommand" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>
